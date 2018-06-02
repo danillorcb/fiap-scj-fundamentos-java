@@ -1,0 +1,9 @@
+a. Implícita
+b. Implícita
+c. Implícita
+d. Implícita
+e. Implícita
+f. Erro de compilação
+g. Explícita
+h. Explícita
+i. Explícita

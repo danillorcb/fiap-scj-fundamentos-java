@@ -1,0 +1,8 @@
+a. 
+Saída: true 
+O objeto chowChow é do tipo ChowChow herdado da classe Cachorro, logo o objeto acaba sendo instância da classe Cachorro também.
+
+b.
+Saída: false
+O objeto cachorro é do tipo Cachorro, superclasse de ChowChow.
+A classe Cachorro não tem as especificações da subclasse ChowChow, portanto ao perguntar se o objeto "cachorro" é instância de ChowChow, é retornado false.
