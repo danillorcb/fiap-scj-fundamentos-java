@@ -1,0 +1,4 @@
+Testando mensagem codificada
+Nova linha de teste
+12345
+FIM

@@ -1,0 +1,20 @@
+a) Serão criadas 13 strings em memória, considerando a string vazia inicial, e cada concatenação que gera uma nova string para cada texto diferente criado;
+
+i	z	string
+--  --  ------
+0	0	""
+0	1	"string"
+1	2	"stringstring"
+2	3	"stringstringstring"
+3	4	"stringstringstringstring"
+4	5	"stringstringstringstringstring"
+5	6	"stringstringstringstringstringstring"
+6	7	"stringstringstringstringstringstringstring"
+7	8	"stringstringstringstringstringstringstringstring"
+8	9	"stringstringstringstringstringstringstringstringstring"
+9	10	"stringstringstringstringstringstringstringstringstringstring"
+10	11	"stringstringstringstringstringstringstringstringstringstringstring"
+11	12	"stringstringstringstringstringstringstringstringstringstringstringstring"
+
+
+b) Poderia ser usado um StringBuilder nesse caso para não criar strings em memória desnecessariamente.
